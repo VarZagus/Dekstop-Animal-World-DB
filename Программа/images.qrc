@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img.jpg</file>
+        <file>data.txt</file>
+        <file>cat.png</file>
+        <file>icon.ico</file>
+    </qresource>
+</RCC>
